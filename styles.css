@@ -1,5 +1,9 @@
 h1 {}
 
+body {
+  background-color: lightgrey
+}
+
 h1 {
   color: crimson;
   font-size: 2rem;
